@@ -1,0 +1,237 @@
+  /* index.html */      
+
+.zyra{
+    float: right;
+    margin-right: 100px;
+    margin-top: 40px;
+    
+   
+}
+
+
+.zyr{
+    float: right;
+    margin-bottom: 50px;
+    margin-right: 50px;
+     margin-top: 40px;
+}
+
+
+.zy{
+    float: right;
+    margin-bottom: 60px;
+    margin-right: 50px;
+     margin-top: 40px;
+}
+
+
+.z{
+    margin-top: 70px;
+    margin-left: 60px;
+    margin-bottom: 80px;
+
+}
+
+.a{
+    margin-top: 50px;
+    margin-left: 50px;
+     margin-bottom: 70px;
+}
+
+.b{
+    margin-top: 50px;
+    margin-left: 50px;
+     margin-bottom: 70px;
+}
+
+
+.c{
+    text-align: center;
+    
+}
+
+
+.d{
+    text-align: center;
+ 
+}
+
+
+.e{
+    text-align: center;
+
+    
+}
+
+
+.f{
+    text-align: center;
+    
+}
+
+
+
+.a2{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin-top: 10px;
+
+}
+
+
+.b2{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+
+}
+
+.c2{
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+
+
+}
+
+.card2{
+    
+}
+
+
+
+
+.a3{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.c3{
+     text-align: center;
+}
+
+.d3{
+    background-color: yellow;
+}
+
+.f2{
+    display: flex;
+    margin-top: 90px;
+    margin-left: 30px;
+
+}
+
+.card-body3{
+    text-align: center;
+}
+
+.y2{
+    margin-bottom: 20px;
+}
+
+
+.y3{
+    margin-bottom: 20px;
+}
+
+.x2{
+    display: flex;
+
+}
+
+
+.z1{
+    display: block;
+    text-align: center;
+    align-content: center;
+    justify-content: center;
+}
+
+.z2{
+    display: block;
+    text-align: center;
+    align-content: center;
+    justify-content: center;
+
+}
+
+.z3{
+    display: block;
+    text-align: center;
+    align-content: center;
+    justify-content: center;
+
+}
+
+.z4{
+    display: block;
+    text-align: center;
+    align-content: center;
+    justify-content: center;
+
+}
+
+.z5{
+    display: block;
+    text-align: center;
+    align-content: center;
+    justify-content: center;
+
+}
+
+.z6{
+    display: block;
+    text-align: center;
+    align-content: center;
+    justify-content: center;
+}
+
+.pad{ 
+    margin-left: 190px;
+    width: 600px;
+    height: 500px;
+
+}
+
+.pad2{
+    width: 600px;
+    height: 500px;
+
+}
+.xx{
+
+    display: flex;
+    width: 500px;
+    height: 400px;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+}
+
+
+
+.xx3{
+    float: center;
+    display: flex;
+    width: 500px;
+    height: 350px;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    margin-left: 110px;
+}
+
+.xx4{
+    float: center;
+    display: flex;
+    width: 500px;
+    height: 500px;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    margin-left: 500px;
+}
+
+
